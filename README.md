@@ -1,0 +1,1 @@
+# pubsub-impl-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 pubsub_impl.py\n```\n
